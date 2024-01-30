@@ -1,4 +1,4 @@
-# Welcome on my Github profile,
+# Welcome to my Github profile,
 ## I'm Loreleï, also known as taisezmoi but long story short :
 ### I'm a Front dev (work-study program) @ [Akawaka](https://www.akawaka.fr/) | Enthralled by old tech & floppy disks 💾
 
