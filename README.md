@@ -1,6 +1,6 @@
 # Welcome on my Github profile,
 ## I'm Loreleï, also known as taisezmoi but long story short :
-Front dev | Enthralled by old tech & floppy disks 💾
+Front dev (work-study program) @ [Akawaka](https://www.akawaka.fr/) | Enthralled by old tech & floppy disks 💾
 
 - 💻 [On my spare time] Currently working on my website https://www.taisezmoi.com
 - ☝️ Learning Vue.js, React & how not to depreciate my value on a daily basis as a human being
