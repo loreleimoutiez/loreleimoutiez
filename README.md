@@ -9,3 +9,4 @@
 You can find me on the main social networks under the pseudonym @ taisezmoi, but be warned it may not be a good idea (I'm chatty).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=loreleimoutiez)](https://github.com/anuraghazra/github-readme-stats)
+![loreleimoutiez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loreleimoutiez&theme=default&show_icons=true&hide_border=true&layout=compact)
