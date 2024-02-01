@@ -1,4 +1,5 @@
-# Welcome to my Github profile,
+# Welcome to my Github profile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/loreleimoutiez/loreleimoutiez/assets/101470978/cf2e5f40-92c5-4f01-a142-58f16f3d9098" width="60" margin-left="90px">
+
 ## I'm Loreleï, also known as taisezmoi but long story short :
 ### I'm a Front dev (work-study program) @ [Akawaka](https://www.akawaka.fr/) | Enthralled by old tech & floppy disks 💾
 
