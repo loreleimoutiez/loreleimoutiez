@@ -18,7 +18,7 @@ You can find me on the main social networks under the pseudonym @ taisezmoi, but
 
 ### 2024
 September
-- MYSTERY TALK:<br>
+- NES: From constrained architecture to modern memory and resource management.<br>
 https://opentechcon.fr/programme/
 
 June
