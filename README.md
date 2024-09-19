@@ -1,7 +1,7 @@
 # Welcome to my Github profile,
 
 ## I'm Loreleï, also known as taisezmoi but long story short :
-### I'm a Front dev (alternship, november 2022 to September 2024) @ [Akawaka](https://www.akawaka.fr/) | Enthralled by old tech & floppy disks 💾
+### I'm a Front dev | Enthralled by old tech & floppy disks 💾
 
 - 💻 [On my spare time] Currently working on my website https://www.taisezmoi.com
 - ☝️ Learning Vue.js, React, React Native & how not to depreciate my value on a daily basis as a human being
