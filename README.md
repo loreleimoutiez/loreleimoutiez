@@ -19,7 +19,7 @@ You can find me on the main social networks under the pseudonym @ taisezmoi, but
 ### 2024
 September
 - NES: From constrained architecture to modern memory and resource management.<br>
-https://opentechcon.fr/programme/
+https://www.youtube.com/watch?v=2J7KVqHGCUE&t
 
 June
 - QUACK - slides only (RAG - visible on my website):<br>
