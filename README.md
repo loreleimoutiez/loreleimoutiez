@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=2J7KVqHGCUE&t
 June
 - QUACK - slides only (RAG - visible on my website):<br>
 Vue.js - Tailwind - Flask - BeautifulSoup - Neo4j - LangChain - Openai<br>
-https://www.canva.com/design/DAGHW2eweWE/mcyUbZDM4C52jbBofypwvw/edit
+https://www.canva.com/design/DAGHW2eweWE/Td2vPiZ7yZ0ReqoTQxx9zg/view?utm_content=DAGHW2eweWE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ### Summer 2022
 - PHASER.JS (at the very beginning of my career transition):<br>
