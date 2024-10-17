@@ -22,13 +22,13 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=loreleimoutiez" alt="My GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=loreleimoutiez" alt="My GitHub stats" height="200px" width="auto" />
   </a>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=vue&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=synthwave&hide_border=true">
-    <img alt="GitHub Stats for loreleimoutiez" src="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=default&hide_border=true">
+    <img alt="GitHub Stats for loreleimoutiez" src="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=default&hide_border=true" height="200px" width="auto" />
   </picture>
 </p>
 
