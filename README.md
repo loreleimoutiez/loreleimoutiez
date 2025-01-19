@@ -21,7 +21,7 @@
 </table>
 
 <div style="width: 45%; background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: flex; align-items: center; justify-content: center;">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/loreleimoutiez/stats">
     <img 
       alt="loreleimoutiez's GitHub Stats" 
       src="https://awesome-github-stats.azurewebsites.net/user-stats/loreleimoutiez?cardType=level&preferLogin=false" 
