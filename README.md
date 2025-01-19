@@ -20,17 +20,15 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=loreleimoutiez" alt="My GitHub stats" height="170px" width="auto" />
+<div style="width: 45%; background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: flex; align-items: center; justify-content: center;">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">
+    <img 
+      alt="loreleimoutiez's GitHub Stats" 
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/loreleimoutiez?cardType=level&preferLogin=false" 
+      style="max-width: 100%; height: auto;"
+    />
   </a>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=vue&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=synthwave&hide_border=true">
-    <img alt="GitHub Stats for loreleimoutiez" src="https://github-readme-streak-stats.herokuapp.com/?user=loreleimoutiez&theme=default&hide_border=true" height="170px" width="auto" />
-  </picture>
-</p>
+</div>
 
 ---
 
