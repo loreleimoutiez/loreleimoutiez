@@ -5,8 +5,8 @@
   <tr>
     <td style="vertical-align: top; width: 50%;">
       <h3>I'm a web dev (could I be more vague ?*) | Enthralled by old tech & floppy disks 💾</h3>
-      <p>*Yes, I've done more front than back, and at the same time I want to remain open to the idea of being able to do several things.</p>
-      <p>I'm also currently building my first mobile application with React Native and NativeWind, that should be fun (spoilers : it is).</p>
+      <p>*Yes, I've done more front than back & mobile, and at the same time I want to remain open to the idea of being able to do several things.</p>
+      <p>I'm also currently building a mobile application with React Native and NativeWind, that should be fun (spoilers : it is).</p>
       <ul>
         <li>💻 [On my spare time] Working on my website https://www.taisezmoi.com</li>
         <li>☝️ Learning Vue.js, React, React Native & how not to depreciate my value on a daily basis as a human being</li>
@@ -20,12 +20,12 @@
   </tr>
 </table>
 
-<div style="width: 45%; background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: flex; align-items: center; justify-content: center;">
+<div style="width: 10%; background-color: white; border-radius: 10px; padding: 5px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); display: flex; align-items: center; justify-content: center; height: 50px;">
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/loreleimoutiez/stats">
     <img 
       alt="loreleimoutiez's GitHub Stats" 
       src="https://awesome-github-stats.azurewebsites.net/user-stats/loreleimoutiez?cardType=level&preferLogin=false" 
-      style="max-width: 100%; height: auto;"
+      style="width: 390px; height: auto;"
     />
   </a>
 </div>
