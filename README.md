@@ -21,6 +21,10 @@ You can find me on the main social networks under the pseudonym @taisezmoi, but 
 
 ## Talks 🎙️
 
+### 🍁 2025
+February - Montreal
+- 🤫
+
 ### 🩷 2024
 September  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/> [NES: From constrained architecture to modern memory and resource management](https://www.youtube.com/watch?v=2J7KVqHGCUE&t)
