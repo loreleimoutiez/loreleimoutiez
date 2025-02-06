@@ -1,6 +1,6 @@
 # Welcome to my Github profile,
 
-## I'm Loreleï, also known as taisezmoi but long story short :
+## 🍁 Currently looking for opportunities in Montreal
 
 **Web dev | Enthralled by old tech & floppy disks 💾**
 
