@@ -2,11 +2,9 @@
 
 ## 🍁 Currently looking for opportunities in Montreal
 
-**Web dev | Enthralled by old tech & floppy disks 💾**
+**Software Developer | Enthralled by old tech & floppy disks 💾**
 
 - 💻 [On my spare time] Working on my website [taisezmoi.com](https://www.taisezmoi.com)
-- ☝️ Learning Vue.js, React, React Native among other things 
-- 🩵 Flabbergasted by what github has to offer (and by the word 'flabbergasted' itself)
 
 You can find me on the main social networks under the pseudonym @taisezmoi, but be warned it may not be a good idea (I'm chatty).
 
