@@ -1,6 +1,6 @@
 # Welcome to my Github profile,
 
-## 🍁 Currently looking for opportunities in Montreal
+## 🍁 Currently looking for opportunities in Quebec
 
 **Software Developer | Enthralled by old tech & floppy disks 💾**
 
