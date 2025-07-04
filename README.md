@@ -1,10 +1,11 @@
-# Welcome to my Github profile,
-
 ## Currently looking for opportunities
 
-**Software Developer | Enthralled by old tech & floppy disks 💾**
+**Web Developer with a growing interest in cybersecurity**  
+*Also enthralled by old tech & floppy disks 💾*
 
-- 💻 [On my spare time] Working on my website [taisezmoi.com](https://www.taisezmoi.com)
+- 🎯 Currently upskilling in cybersecurity - enrolled in the **Google Cybersecurity Professional Certificate** *(as a first step into the field)*. I’m especially drawn to the idea of protecting people, systems, and data, and exploring how tech can serve ethical and resilient practices.
+- 💻 Still open to dev roles, especially those that intersect with security, backend, or infrastructure.
+- 🛠️ [On my spare time] Working on my website [taisezmoi.com](https://www.taisezmoi.com)
 
 You can find me on the main social networks under the pseudonym @taisezmoi, but be warned it may not be a good idea (I'm chatty).
 
