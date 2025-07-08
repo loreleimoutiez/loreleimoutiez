@@ -9,11 +9,6 @@
 
 You can find me on the main social networks under the pseudonym @taisezmoi, but be warned it may not be a good idea (I'm chatty).
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=loreleimoutiez" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreleimoutiez&theme=default&show_icons=true&hide_border=true&layout=compact" style="height: 200px;">
-</div>
-
 ## Talks 🎙️
 
 | Year  | Month       | Talk                                                                | Location |
