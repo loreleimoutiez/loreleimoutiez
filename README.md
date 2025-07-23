@@ -3,7 +3,7 @@
 **Web Developer with a growing interest in cybersecurity**  
 *Also enthralled by old tech & floppy disks 💾*
 
-- 🎯 Currently upskilling in cybersecurity - enrolled in the **Google Cybersecurity Professional Certificate** *(as a first step into the field)*. I’m especially drawn to the idea of protecting people, systems, and data, and exploring how tech can serve ethical and resilient practices.
+- 🎯 Currently upskilling in cybersecurity, I’m especially drawn to the idea of protecting people, systems, and data, and exploring how tech can serve ethical and resilient practices.
 - 💻 Still open to dev roles, especially those that intersect with security, backend, or infrastructure.
 - 🛠️ [On my spare time] Working on my website [taisezmoi.com](https://www.taisezmoi.com)
 
