@@ -1,7 +1,7 @@
 ## Currently looking for opportunities
 
-**Web Developer with a growing interest in cybersecurity**  
-*Also enthralled by old tech & floppy disks 💾*
+**Developer with other interests**  
+*(Also enthralled by old tech & floppy disks 💾)*
 
 - 🎯 Currently upskilling in cybersecurity, I’m especially drawn to the idea of protecting people, systems, and data, and exploring how tech can serve ethical and resilient practices.
 - 💻 Still open to dev roles, especially those that intersect with security, backend, or infrastructure.
